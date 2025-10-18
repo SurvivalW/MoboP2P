@@ -1,0 +1,7 @@
+README.md
+setup.py
+src/mobop2p.egg-info/PKG-INFO
+src/mobop2p.egg-info/SOURCES.txt
+src/mobop2p.egg-info/dependency_links.txt
+src/mobop2p.egg-info/entry_points.txt
+src/mobop2p.egg-info/top_level.txt
