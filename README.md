@@ -61,6 +61,7 @@ MoboP2P/
 
 
 
+
 ## <3
 ### If you'd like to show your support, send a few sats XD
-![Bitcoin](/BTC.jpg)
+![BTC](https://github.com/user-attachments/assets/cdb814cb-acef-4af1-8699-09bcedba4b11)
