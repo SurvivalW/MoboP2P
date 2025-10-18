@@ -1,9 +1,5 @@
 # MoboP2P
 
-## <3
-### If you'd like to show your support, send a few sats XD
-![Bitcoin](/BTC.jpg)
-
 ## Mission
 
 The mission of this project is simple: to create the **most secure messaging application for the terminal**.  
@@ -61,3 +57,10 @@ MoboP2P/
 ├── README.md
 └── requirements.txt
 ```
+
+
+
+
+## <3
+### If you'd like to show your support, send a few sats XD
+![Bitcoin](/BTC.jpg)
