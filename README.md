@@ -22,6 +22,12 @@ MoboP2P/
 │   ├── keys/                 # Private/public keypairs for identity
 │   └── messages/             # Message queue and history (encrypted)
 │
+├── docs/                     # Documentation for usage and protocol
+│   └── protocol.md
+|
+├── scripts/                  # Helper scripts (key generation, message inspection)
+│   └── generate_keys.py
+|
 ├── src/
 │   ├── network/              # Networking layer
 │   │   ├── connection.py     # Peer connection management
@@ -48,14 +54,11 @@ MoboP2P/
 │   ├── test_crypto.py
 │   └── test_messaging.py
 │
-├── scripts/                  # Helper scripts (key generation, message inspection)
-│   └── generate_keys.py
-│
-├── docs/                     # Documentation for usage and protocol
-│   └── protocol.md
 │
 ├── README.md
-└── requirements.txt
+├── requirements.txt
+└── setup.py
+
 ```
 
 
