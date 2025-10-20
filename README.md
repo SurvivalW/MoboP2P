@@ -16,7 +16,7 @@ This project is for those who demand security without compromise, who value priv
 MoboP2P/
 │
 ├── config/
-│   └── settings.toml         # Global configuration (ports, peer list, logging)
+│   └── settings.toml         # Global configuration
 │
 ├── data/
 │   ├── keys/                 # Private/public keypairs for identity
@@ -25,14 +25,14 @@ MoboP2P/
 ├── docs/                     # Documentation for usage and protocol
 │   └── protocol.md
 |
-├── scripts/                  # Helper scripts (key generation, message inspection)
+├── scripts/                  # Helper scripts
 │   └── generate_keys.py
 |
 ├── src/
 │   ├── network/              # Networking layer
 │   │   ├── connection.py     # Peer connection management
 │   │   ├── handshake.py      # Key exchange, authentication, session setup
-│   │   └── framing.py        # Message framing (length prefix, sequencing)
+│   │   └── framing.py        # Message framing
 │   │
 │   ├── crypto/               # Encryption & signing
 │   │   ├── key_management.py # Key generation, storage, rotation
@@ -41,12 +41,13 @@ MoboP2P/
 │   │
 │   ├── messaging/            # Core messaging logic
 │   │   ├── send.py           # Queue messages and send
+|   |   ├── style.css         # Style for the TUI
 │   │   └── receive.py        # Validate and decrypt messages
 │   │
 │   ├── bootstrap/            # Optional peer discovery / relay
 │   │   └── bootstrap.py      # Maintain known peer list, NAT traversal
 │   │
-│   └── main.py               # Entry point: combines networking, messaging, crypto
+│   └── main.py               # Entry point: combines networking, messaging, crypto, TUI the whole shabang😉
 │
 ├── tests/                    # Unit & integration tests
 │   ├── test_network.py
@@ -54,10 +55,11 @@ MoboP2P/
 │   └── test_messaging.py
 │
 │
-├── README.md
-├── requirements.txt
-└── setup.py
+├── README.md                 # What you reading right now
+├── requirements.txt          # What you need to run my app
+└── setup.py                  # Packaging and installation configuration
 ```
+
 
 ## <3
 ### If you'd like to show your support, send a few sats XD
