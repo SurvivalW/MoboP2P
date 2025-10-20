@@ -41,8 +41,7 @@ MoboP2P/
 │   │
 │   ├── messaging/            # Core messaging logic
 │   │   ├── send.py           # Queue messages and send
-│   │   ├── receive.py        # Validate and decrypt messages
-│   │   └── ui.py             # Terminal input/output handling
+│   │   └── receive.py        # Validate and decrypt messages
 │   │
 │   ├── bootstrap/            # Optional peer discovery / relay
 │   │   └── bootstrap.py      # Maintain known peer list, NAT traversal
@@ -58,12 +57,7 @@ MoboP2P/
 ├── README.md
 ├── requirements.txt
 └── setup.py
-
 ```
-
-
-
-
 
 ## <3
 ### If you'd like to show your support, send a few sats XD

@@ -1,0 +1,58 @@
+#chatLog
+{
+    height: 5fr;
+    width: 1fr;
+    overflow-y: auto;
+}
+
+#input
+{
+    height: 0.5fr;
+    width: 1fr;
+}
+
+#contacts
+{
+    height: 3fr;
+    width: 1fr;
+    overflow-y: auto;
+}
+
+#add
+{
+    width: 0.2fr;
+    height: 1fr;
+}
+
+#remove
+{
+    width: 0.2fr;
+    height: 1fr;
+}
+
+#systemMessages
+{
+    height: 0.3fr;
+    overflow-y: auto;
+}
+
+
+
+
+
+/* containers */
+
+#chat_container
+{
+    width: 2fr;
+}
+
+#contacts_container
+{
+    width: 0.7fr;
+}
+
+#buttons_container
+{
+    height: 0.5fr;
+}
