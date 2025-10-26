@@ -57,7 +57,7 @@ MoboP2P/
 
 ## ❤️ Support MoboP2P
 
-If you enjoy using MoboP2P and want to support development, you can send a few sats (Bitcoin). Your support is completely optional and helps keep the project going!
+If you’re excited for **MoboP2P** to become a reality, consider sending a few sats (Bitcoin). Your support is entirely optional.
 
 Lighting:
 ![BTC](https://github.com/user-attachments/assets/cdb814cb-acef-4af1-8699-09bcedba4b11)
