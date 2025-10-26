@@ -4,12 +4,6 @@
 
 The mission of this project is simple: to create the **most secure messaging application for the terminal**.  
 
-In a world where privacy is constantly under threat, and modern messaging platforms trade security for convenience and tracking, this project aims to put control back in the hands of the user. Every message and every connection is designed with security, privacy, and reliability as the absolute priority.  
-
-By combining **end-to-end encryption** and **peer-to-peer communication**, this messenger ensures that users can communicate confidently and directly, without exposing sensitive information to third parties.  
-
-This project is for those who demand security without compromise, who value privacy, and who prefer the terminal as their command center. Every design decision reflects this philosophy: **simplicity, transparency, and unyielding security**.
-
 ## File Structure
 
 ```
