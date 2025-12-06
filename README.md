@@ -53,7 +53,3 @@ MoboP2P/
 ├── requirements.txt          # What you need to run my app
 └── setup.py                  # Packaging and installation configuration
 ```
-
-![BTC](https://github.com/user-attachments/assets/cdb814cb-acef-4af1-8699-09bcedba4b11)
-On-Chain:
-bc1pa2ptetj6ax4y9m367tlr2wc9nq3t3mnwl90cq2x5c2as06zw4apsvmc7v5
