@@ -54,12 +54,6 @@ MoboP2P/
 └── setup.py                  # Packaging and installation configuration
 ```
 
-
-## ❤️ Support MoboP2P
-
-If you’re excited for **MoboP2P** to become a reality, consider sending a few sats (Bitcoin). Your support is entirely optional.
-
-Lighting:
 ![BTC](https://github.com/user-attachments/assets/cdb814cb-acef-4af1-8699-09bcedba4b11)
 On-Chain:
 bc1pa2ptetj6ax4y9m367tlr2wc9nq3t3mnwl90cq2x5c2as06zw4apsvmc7v5
